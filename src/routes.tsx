@@ -26,9 +26,9 @@ const ProductsPage = Loadable(
 
 
 export const routes: any = [
-  { path: "/", element: <Navigate to="dashboard" /> },
+  { path: "/", element: <Navigate to="products" /> },
   {
-    path: "login",
+    path: "products",
     element: <ProductsPage />,
   },
   

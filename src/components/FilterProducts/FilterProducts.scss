@@ -1,0 +1,27 @@
+.filter-main{
+    background-color: #000000;
+}
+.filterHeading{
+    text-align: left;
+    font-family: "Lexend Giga", Sans-serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: white;
+
+}
+.custom-checkbox {
+ 
+        display: grid;
+    
+    .ant-checkbox+span{
+    font-family: "Lexend Giga", Sans-serif;
+    font-size: 1.4rem;
+    
+    font-weight: 200;
+    line-height: 24px;
+    letter-spacing: -0.6px;
+    color: white;
+    }
+}
